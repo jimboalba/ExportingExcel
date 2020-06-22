@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Framework.VB", "Framework.VB", "{C929FEEB-31F6-48A5-88DF-08833FBC7721}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core.Csharp", "Core.Csharp", "{111C5E0C-4665-4A60-B50D-13CB13D54676}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Framework.VB.ExcelToJson", "Framework.VB.ExcelToJson\Framework.VB.ExcelToJson.vbproj", "{39868F93-C288-484E-ADB3-F82DAA029457}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39868F93-C288-484E-ADB3-F82DAA029457}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39868F93-C288-484E-ADB3-F82DAA029457}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39868F93-C288-484E-ADB3-F82DAA029457}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39868F93-C288-484E-ADB3-F82DAA029457}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{39868F93-C288-484E-ADB3-F82DAA029457} = {C929FEEB-31F6-48A5-88DF-08833FBC7721}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66E2F7D4-A9FB-4DE5-A02D-7B9BA3F6A3EC}
+	EndGlobalSection
+EndGlobal
